@@ -1,4 +1,3 @@
-Inline-style: 
 ![Main image](https://github.com/ellegamee/evalcalculator/raw/master/featureimage.png)
 
 # Evalcalculator
