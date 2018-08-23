@@ -1,3 +1,6 @@
+Inline-style: 
+![Main image](https://github.com/ellegamee/evalcalculator/raw/master/featureimage.png)
+
 # Evalcalculator
 The "Eval" calculator that is going to take over the WORLD!!
 
